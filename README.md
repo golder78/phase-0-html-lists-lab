@@ -53,14 +53,6 @@ favorite foods example, if we wanted to convert it to a list, it would look like
 this:
 
 ```html
-<ul>
-  <li>Banh Mi</li>
-  <li>Grilled Cheese</li>
-  <li>Baba Ghanoush</li>
-  <li>Tomato soup</li>
-  <li>Za’atar Bread</li>
-  <li>Sushi</li>
-</ul>
 ```
 
 Now, instead of just having each item show up on a new line, the content will
@@ -205,7 +197,7 @@ page you opened earlier. Your newly added list should look like this:
 1. Spread butter on bread and frying pan
 2. Place bread in frying pan and fry
 3. Add cheese on top of bread
-4. Cover with second slice of bread
+4. cover with second slice of bread
 5. Turn over and fry for 2 minutes
 
 Once you've written an ordered list that displays these 5 steps correctly, run
